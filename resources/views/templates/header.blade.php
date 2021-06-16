@@ -65,7 +65,7 @@
                   <li><!-- start message -->
                     <a href="#">
                       <div class="pull-left">
-                        <img src="{{ asset('assets') }}/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                        <img src="{{ asset('assets') }}/dist/img/edited.jpg" class="img-circle" alt="User Image">
                       </div>
                       <h4>
                         Support Team
@@ -136,17 +136,17 @@
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <img src="{{ asset('assets') }}/dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-              <span class="hidden-xs">Alexander Pierce</span>
+              <img src="{{ asset('assets') }}/dist/img/edited.jpg" class="user-image" alt="User Image">
+              <span class="hidden-xs">Muhammad Rais Nubair</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
               <li class="user-header">
-                <img src="{{ asset('assets') }}/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                <img src="{{ asset('assets') }}/dist/img/edited.jpg" class="img-circle" alt="User Image">
 
                 <p>
-                  Alexander Pierce - Web Developer
-                  <small>Member since Nov. 2012</small>
+                  Muhammad Rais Nubair - Web Developer
+                  <small>Member since Nov. 2020</small>
                 </p>
               </li>
               <!-- Menu Body -->
@@ -193,10 +193,10 @@
       <!-- Sidebar user panel -->
       <div class="user-panel">
         <div class="pull-left image">
-          <img src="{{ asset('assets') }}/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+          <img src="{{ asset('assets') }}/dist/img/edited.jpg" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Alexander Pierce</p>
+          <p>Muhammad Rais Nubair</p>
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
